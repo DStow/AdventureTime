@@ -1,4 +1,8 @@
 # AventureTime
+## ToDo
+1. Create basic scene (No Change Scene) class to store values requird (e.G ID, text target scene Id)
+2. Create other basic scenes (Choices, Skill check, item check and gold check)
+3. Turn above into an inheritence structure
 ## Summary
 A take on the Fighting Fantasy Gamebooks (Specifically Armies of Death)
 ## Requirements

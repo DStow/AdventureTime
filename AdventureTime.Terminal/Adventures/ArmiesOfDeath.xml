@@ -1,1 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?> 
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <details>
+    <adventureName>Armies of Death</adventureName>
+    <adventureDescription>Bal Bla Bla Bla</adventureDescription>
+  </details>
+  <saves></saves>
+  <scenes>
+    <scene id="1" type="1" target="2">
+      <text>Basic scene bois</text>
+    </scene>
+  </scenes>
+</root>
+
