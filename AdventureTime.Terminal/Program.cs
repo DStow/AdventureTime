@@ -10,6 +10,7 @@ namespace AdventureTime.Terminal
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

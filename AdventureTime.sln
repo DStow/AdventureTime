@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.28307.329
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureTime.Terminal", "AdventureTime.Terminal\AdventureTime.Terminal.csproj", "{E501470C-BE59-48F4-9711-F28FC4CFFB2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureTime.Lib", "AdventureTime.Lib\AdventureTime.Lib.csproj", "{BF782DA9-6932-421C-B0DE-A9A2A0C2FF67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E501470C-BE59-48F4-9711-F28FC4CFFB2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E501470C-BE59-48F4-9711-F28FC4CFFB2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E501470C-BE59-48F4-9711-F28FC4CFFB2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF782DA9-6932-421C-B0DE-A9A2A0C2FF67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF782DA9-6932-421C-B0DE-A9A2A0C2FF67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF782DA9-6932-421C-B0DE-A9A2A0C2FF67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF782DA9-6932-421C-B0DE-A9A2A0C2FF67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
