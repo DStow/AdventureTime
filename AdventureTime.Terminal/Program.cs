@@ -10,8 +10,10 @@ namespace AdventureTime.Terminal
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Welcome to Adventure Time!");
             Console.WriteLine("Please enter an Adventure id:");
+            Console.ForegroundColor = ConsoleColor.Grey;
 
             // Get avail adventures
             string[] availableAdventures = Lib.AdventureLoader.GetAvailableAdventures();
