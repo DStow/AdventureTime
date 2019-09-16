@@ -13,7 +13,7 @@ namespace AdventureTime.Terminal
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine("Welcome to Adventure Time!");
             Console.WriteLine("Please enter an Adventure id:");
-            Console.ForegroundColor = ConsoleColor.Grey;
+            Console.ForegroundColor = ConsoleColor.Gray;
 
             // Get avail adventures
             string[] availableAdventures = Lib.AdventureLoader.GetAvailableAdventures();
